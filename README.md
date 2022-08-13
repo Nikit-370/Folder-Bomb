@@ -3,7 +3,7 @@ This is a script which creates infinte folder/directory after the execution of t
 ```
 Note:
 For Educational Purpose only.
-Don't use it for taking revenge, I dont promote that. This is only for fun wiht python.
+Don't use it for taking revenge, I dont promote that. This is only for fun with python.
 ```
 
 In this repo you will find 2 file with .py and .pyw extension.
